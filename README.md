@@ -13,4 +13,4 @@ All demo data is fictional. Day-to-day work at Haystack lives on [@andrewbushek-
 
 Site: [andrewbushek.github.io](https://andrewbushek.github.io)
 
-[LinkedIn](https://www.linkedin.com/in/andrewbushek) · andrewbushek@gmail.com · Buenos Aires / US
+[LinkedIn](https://www.linkedin.com/in/andrewbushek) · andrewbushek@gmail.com
