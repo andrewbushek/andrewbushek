@@ -9,6 +9,8 @@ Before that: Director of Strategic Finance at TradeCentric, VP of Finance at Hea
 - [**Finance portfolio**](https://github.com/andrewbushek/portfolio): walkthroughs of AR aging, 13-week cash, LTV/CAC working papers, and team planning with an MCP-connected assistant
 - [**Household finance demo**](https://andrewbushek.github.io/household-finance-demo/): live, browser-only app for shared expenses, income-based splits, and multi-currency trips
 
+- **Behind the dashboards**: cash matching, commissions, multi-entity consolidation, and close automation on BigQuery + dbt ([details](https://github.com/andrewbushek/portfolio#behind-the-dashboards))
+
 All demo data is fictional. Day-to-day work at Haystack lives on [@andrewbushek-blip](https://github.com/andrewbushek-blip) (1,800+ contributions since April 2026).
 
 Site: [andrewbushek.github.io](https://andrewbushek.github.io)
