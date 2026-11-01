@@ -1,18 +1,15 @@
+<img src="assets/banner.png" alt="Andrew Bushek, VP of Finance at Haystack. 2-day close, +$100K a month at Hearth, $23M Series B model." width="100%">
+
 ### Andrew Bushek
 
-Finance leader who builds his own tools. VP of Finance at [Haystack](https://www.haystackteam.com), a PE-backed B2B SaaS company. As the one-person finance team, I build the tools that run it: receivables, cash, commissions, and revenue analytics on BigQuery, written with Claude Code.
+I run finance operations and write the software behind them, so I spend my time on strategy, not spreadsheets.
 
-Before that: Director of Strategic Finance at TradeCentric, VP of Finance at Hearth, investment banking at J.P. Morgan, JD/MBA from Emory.
+I am VP of Finance at [Haystack](https://www.haystackteam.com) - the whole finance team at a PE-backed B2B SaaS company. I built the finance tools with Claude Code.
 
-**What's here**
+- [Portfolio site](https://andrewbushek.github.io) has the dashboards and my background.
+- [Finance portfolio](https://github.com/andrewbushek/portfolio) has walkthroughs of AR aging, a 13-week cash forecast, LTV/CAC working papers, and team planning with an MCP assistant.
+- [Household finance demo](https://github.com/andrewbushek/household-finance-demo) is a browser-only app for shared expenses, income-based splits, and multi-currency trips.
 
-- [**Finance portfolio**](https://github.com/andrewbushek/portfolio): walkthroughs of AR aging, 13-week cash, LTV/CAC working papers, and team planning with an MCP-connected assistant
-- [**Household finance demo**](https://andrewbushek.github.io/household-finance-demo/): live, browser-only app for shared expenses, income-based splits, and multi-currency trips
-
-- **Behind the dashboards**: cash matching, commissions, multi-entity consolidation, and close automation on BigQuery + dbt ([details](https://github.com/andrewbushek/portfolio#behind-the-dashboards))
-
-All demo data is fictional. Day-to-day work at Haystack lives on [@andrewbushek-blip](https://github.com/andrewbushek-blip) (1,800+ contributions since April 2026).
-
-Site: [andrewbushek.github.io](https://andrewbushek.github.io)
+All demo data is fictional. Day-to-day Haystack work is on [@andrewbushek-blip](https://github.com/andrewbushek-blip).
 
 [LinkedIn](https://www.linkedin.com/in/andrewbushek) · andrewbushek@gmail.com
